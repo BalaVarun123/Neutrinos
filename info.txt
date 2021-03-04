@@ -1,0 +1,9 @@
+1 - load the function objects and assign a number to the 
+2 - call the function object which assigned to the given number with parameters given.
+-1 = destroy the function object
+3 - load the command and give a number
+4 - execute the command
+-3 - destroy the command
+5 - load a number of commands into memory with given a number
+6 - exeute a set of commands
+-5 - destroy the set of commands
